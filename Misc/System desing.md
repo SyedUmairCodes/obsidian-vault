@@ -1,0 +1,31 @@
+System design topics
+- Scalability
+	- Horizontal
+	- Vertical
+- load balancing
+- Databases
+- Sql Optimization
+	- Replication
+	- Sharding
+	- Partioning
+	- cloning
+	- caching
+- Async requests
+- CAP Theorem
+- CDN
+	- Push
+	- Pull
+- Reverse proxy
+- Microservices and monoliths
+- 7-tier architecture
+- Message queues
+- HTTP requests
+- APIs
+- Encryption
+	- E2EE
+	- Encrpytion at rest
+	- hashing
+	- salting
+	- XSS
+	- sanitization
+	- least privlege
